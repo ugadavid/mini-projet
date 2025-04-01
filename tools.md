@@ -1,6 +1,6 @@
 | OUTIL | NATURE/OBJECTIF | LIEN | TUTORIEL |
 |-------|-----------------|------|----------|
-|Pour créer des quiz/questionnaires|
+|Pour créer des quiz/questionnaires||||
 |Kahoot|Création de quiz en ligne. Les apprenant.e.s utilisent leur smartphone pour répondre aux questions affichées sur l'écran.|https://kahoot.com https://kahoot.it|https://portaileduc.net/website/kahoot/ https://latelierduformateur.fr/tutoriel-kahoot/|
 |Drag n’ Survey|Création de questionnaires ou sondages en ligne.|https://www.dragnsurvey.com/ https://www.dragnsurvey.com/blog/elaborer-un-questionnaire-avec-dragn-survey/|
 |Quizlet|Création de quiz en ligne.|https://quizlet.com/fr-fr https://latelierduformateur.fr/tutoriel-quizlet/|
